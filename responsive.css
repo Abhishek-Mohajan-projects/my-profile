@@ -1,0 +1,167 @@
+@media only screen and (max-width: 1280px) {
+
+
+    .header-section .card-main .card-info .card-heading h1 {
+        font-size: 28px;
+    }
+
+    .header-section .card-main .card-info .card-desc p {
+        padding: 16px 14px;
+        line-height: 30px;
+        font-size: 13px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+
+    .header-section .card-main .card-info .card-heading h1 {
+        font-size: 21px;
+    }
+
+    .header-section .card-main .card-info .card-heading h2 {
+        font-size: 10px;
+        text-transform: uppercase;
+    }
+
+    .header-section .card-main .card-info .card-heading h3 {
+        font-size: 12px;
+    }
+
+    .header-section .card-main .card-info .card-desc p {
+        padding: 16px 9px;
+        line-height: 28px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+
+    .header-section .card-main .card-info .card-heading h1 {
+        font-size: 19px;
+        margin-left: 2px;
+    }
+
+    .header-section .card-main .card-info .card-desc p {
+        padding: 16px 5px;
+        line-height: 27px;
+        font-size: 11px;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 992px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .header-section .card-main .card-info .card-heading h1 {
+        font-size: 16px;
+    }
+
+    .header-section .card-main .card-info .card-heading h2 {
+        font-size: 8px;
+    }
+
+    .header-section .card-main .card-info .card-desc p {
+        padding: 9px 9px;
+        line-height: 24px;
+        font-size: 12px;
+    }
+
+    .header-section .card-main .card-info .card-heading h1 {
+        font-size: 13px;
+        letter-spacing: 2px;
+    }
+
+    .header-section .card-main {
+        width: 45%;
+    }
+
+    .header-section .card-main .card-info .card-heading h2 {
+        letter-spacing: 1px;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .header-section .card-main {
+        width: 52%;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .header-section .card-main {
+        width: 63%;
+    }
+}
+
+@media only screen and (max-width: 428px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .header-section .card-main {
+        width: 86%;
+    }
+} 
+
+
+
+
+@media only screen and (max-width: 414px)  {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .header-section .card-main {
+        width: 89%;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .header-section .card-main .card-info .card-desc p {
+        padding: 8px 7px;
+        line-height: 23px;
+        font-size: 11px;
+    }
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 360px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .header-section .card-main .card-info .card-desc p {
+        line-height: 23px;
+        font-size: 11px;
+    }
+}
